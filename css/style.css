@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+  text-decoration: underline;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+li {
+  background-color: yellow;
+  color: green;
+}
